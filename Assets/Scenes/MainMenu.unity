@@ -457,7 +457,7 @@ GameObject:
   - component: {fileID: 632958085}
   - component: {fileID: 632958086}
   m_Layer: 5
-  m_Name: Toggle
+  m_Name: MusicVolumeToggle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1005,7 +1005,7 @@ GameObject:
   - component: {fileID: 1038035154}
   - component: {fileID: 1038035155}
   m_Layer: 5
-  m_Name: Slider
+  m_Name: MusicVolumeSlider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1081,7 +1081,7 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 0.5
+  m_Value: 0.05
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:

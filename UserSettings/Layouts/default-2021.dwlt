@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 56
+  controlID: 17
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 49
+  controlID: 105
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +196,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 98
+  controlID: 37
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,8 +242,8 @@ MonoBehaviour:
     y: 0
     width: 654
     height: 1307
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -259,7 +259,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
+  m_Name: SceneView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -335,7 +335,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: b094ffff5a95ffff0896ffff5296ffffae97ffffb297ffffb897ffffbc97ffffca97ffffce97ffffdea4ffff20a5ffff62a5ffffa8a5ffffeea5ffff34a6ffff76a6ffffb8a6ffff16a7ffffb0a9ffff44aaffff4eabffffc6abffffeeacffffbeb1ffffb6b2ffff7eb4ffffc4b4ffff0ab5ffff50b5ffff96b5ffff38b7ffffe4b7ffff76b8ffffbcb8ffff02b9ffff48b9ffff2ebaffff72baffffb6baffffdcbbffff4abcffff8ebcffffd2bcffffa4c4ffff0cc5ffff0cc6ffff64c7fffff4c8ffff50d1fffff6d2ffff38d3ffff7ad3ffff82d8ffffb2e8ffff2ee9ffff30eaffffd4ebffff22edffff28fbffffb8770000927c00008883000044850000de91000008920000229200007a92000086950000
+      m_ExpandedIDs: 12d4ffff1ad4ffff2ce5ffffc4e6ffff10e8ffff52e8ffff94e8ffffd6e8ffff18e9ffffaaecffff26f6ffff66f6ffffc4f7ffff0efaffff28fbffff225e0000dc5f00001c6200004c6800001a6a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -443,22 +443,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Font
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Font
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\jquer\Projectes\Unity\PongGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b45d0000
-    m_LastClickedID: 23988
-    m_ExpandedIDs: 00000000a45d000000ca9a3b
+    m_SelectedIDs: 40620000
+    m_LastClickedID: 25152
+    m_ExpandedIDs: 000000008a5d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -486,7 +486,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a45d0000
+    m_ExpandedIDs: 000000008a5d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -916,9 +916,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 510.4621, y: 235.08997, z: -2.486747}
+    m_Target: {x: 545.7981, y: 309.9437, z: -3.5958312}
     speed: 2
-    m_Value: {x: 510.4621, y: 235.08997, z: -2.486747}
+    m_Value: {x: 562.048, y: 295.2216, z: -3.4224992}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -969,9 +969,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 334.01614
+    m_Target: 402.51523
     speed: 2
-    m_Value: 334.01614
+    m_Value: 385.18204
   m_Ortho:
     m_Target: 1
     speed: 2
