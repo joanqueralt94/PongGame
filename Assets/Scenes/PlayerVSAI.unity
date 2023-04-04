@@ -445,7 +445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9381a0dd0c784cf4dafdcdada430d18a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 3
   ball: {fileID: 1360346444}
 --- !u!1 &519420028
 GameObject:
@@ -636,6 +636,7 @@ MonoBehaviour:
   player1text: {fileID: 191912016}
   player2text: {fileID: 34967783}
   AIGame: 1
+  maxScore: 3
 --- !u!4 &768244001
 Transform:
   m_ObjectHideFlags: 0

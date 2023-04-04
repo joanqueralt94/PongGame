@@ -425,7 +425,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 200944150}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 551f91de66c5e7c4fa63e43da58462c2, type: 3}
   m_Name: 
@@ -440,12 +440,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 200944150}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9381a0dd0c784cf4dafdcdada430d18a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 3
   ball: {fileID: 1360346444}
 --- !u!1 &519420028
 GameObject:
@@ -635,7 +635,8 @@ MonoBehaviour:
   player2Goal: {fileID: 989757191}
   player1text: {fileID: 191912016}
   player2text: {fileID: 34967783}
-  AIGame: 1
+  AIGame: 0
+  maxScore: 3
 --- !u!4 &768244001
 Transform:
   m_ObjectHideFlags: 0
