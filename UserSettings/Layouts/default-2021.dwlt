@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 91
+  controlID: 56
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 113
+  controlID: 49
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +196,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 58
+  controlID: 98
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -333,9 +333,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 56120000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 28fbffff
+      m_ExpandedIDs: b094ffff5a95ffff0896ffff5296ffffae97ffffb297ffffb897ffffbc97ffffca97ffffce97ffffdea4ffff20a5ffff62a5ffffa8a5ffffeea5ffff34a6ffff76a6ffffb8a6ffff16a7ffffb0a9ffff44aaffff4eabffffc6abffffeeacffffbeb1ffffb6b2ffff7eb4ffffc4b4ffff0ab5ffff50b5ffff96b5ffff38b7ffffe4b7ffff76b8ffffbcb8ffff02b9ffff48b9ffff2ebaffff72baffffb6baffffdcbbffff4abcffff8ebcffffd2bcffffa4c4ffff0cc5ffff0cc6ffff64c7fffff4c8ffff50d1fffff6d2ffff38d3ffff7ad3ffff82d8ffffb2e8ffff2ee9ffff30eaffffd4ebffff22edffff28fbffffb8770000927c00008883000044850000de91000008920000229200007a92000086950000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -443,21 +443,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
-  m_StartGridSize: 64
+  m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\jquer\Projectes\PongGame
+  - Assets/Scenes
+  m_LastFoldersGridSize: 16
+  m_LastProjectPath: C:\Users\jquer\Projectes\Unity\PongGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ac5d0000
-    m_LastClickedID: 23980
+    m_SelectedIDs: b45d0000
+    m_LastClickedID: 23988
     m_ExpandedIDs: 00000000a45d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -514,7 +514,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: 
+    m_ExpandedInstanceIDs: be7b000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -539,7 +539,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 64
+    m_GridSize: 16
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 115
 --- !u!114 &16
@@ -916,9 +916,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -263.56177, y: 228.60078, z: -2.981078}
+    m_Target: {x: 510.4621, y: 235.08997, z: -2.486747}
     speed: 2
-    m_Value: {x: -263.56177, y: 228.60078, z: -2.981078}
+    m_Value: {x: 510.4621, y: 235.08997, z: -2.486747}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -969,9 +969,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 930.02435
+    m_Target: 334.01614
     speed: 2
-    m_Value: 930.02435
+    m_Value: 334.01614
   m_Ortho:
     m_Target: 1
     speed: 2
